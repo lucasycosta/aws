@@ -1,0 +1,7 @@
+# DEFINICAO LOG DA APLICACAO
+spring:
+   application:
+      name: aws
+
+   profiles:
+      active: default, dev

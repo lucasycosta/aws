@@ -1,0 +1,11 @@
+# DEFINICAO LOG DA APLICACAO
+logging:
+   level:
+      br.com.integracaofuncional: DEBUG
+      org.springframework: INFO
+      
+# DEFINICAO SERVIDOR DE APLICACAO
+server:
+   port: 8081
+   contextPath: /
+   
